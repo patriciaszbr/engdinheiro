@@ -1,12 +1,12 @@
 import { Container } from "../Dashboard/styles";
-import { Summmary } from "../Summary";
+import { Summary } from "../Summary";
 import { TransactionsTable } from "../TransactionsTable";
 
 export function Dashboard() {
   return (
     <>
       <Container>
-        <Summmary/>
+        <Summary/>
         <TransactionsTable />
       </Container>
     </>

@@ -3,7 +3,7 @@ import income from "../../assets/income.svg";
 import outcome from "../../assets/outcome.svg";
 import total from "../../assets/total.svg";
 
-export function Summmary() {
+export function Summary() {
   return (
       <Container>
         <div>
