@@ -19,15 +19,15 @@ export function Summary() {
             <p>Saídas</p>
             <img src={outcome} alt="simbolo da seta de saída" />
           </header>
-          <strong>R$ 100</strong>
-        </div>
+          <strong>R$ 100 </strong>
+        </div> 
 
         <div className="hight-light">
           <header>
             <p>Total</p>
             <img src={total} alt="simbolo da seta de saída" />
           </header>
-          <strong>R$ 900</strong>
+          <strong>R$ 900 </strong>
         </div>
       </Container>
   );
